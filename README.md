@@ -2,11 +2,15 @@
 
 Block Diagram 1
 
+Step Response
+
 Simulink
 
 Block Diagram Solution
 
 Block Diagram 2
+
+Step Response
 
 Simulink
 
