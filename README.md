@@ -21,6 +21,8 @@ Block Diagram 1 Solution
 
 Block Diagram 2
 
+![BD2](https://github.com/stnll/CSE_BlockDiagramAlgebra_ECE-425_MEXE-3201_Group13_2024/assets/157555995/d8b01868-7f9d-422c-adc3-383512fd998d)
+
 Step Response
 
 ![image](https://github.com/stnll/CSE_BlockDiagramAlgebra_ECE-425_MEXE-3201_Group13_2024/assets/157665975/7b63c0a7-0304-4ccc-a89d-07ccc0c7f566)
