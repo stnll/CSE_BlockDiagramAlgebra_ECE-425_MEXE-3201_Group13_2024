@@ -2,6 +2,8 @@
 
 Block Diagram 1
 
+![BD1](https://github.com/stnll/CSE_BlockDiagramAlgebra_ECE-425_MEXE-3201_Group13_2024/assets/157555995/6c47e901-cd14-4770-aede-a39d37f2fa29)
+
 Step Response
 
 ![image](https://github.com/stnll/CSE_BlockDiagramAlgebra_ECE-425_MEXE-3201_Group13_2024/assets/157665975/9c51a22f-8089-4353-944e-5e1122fc6926)
