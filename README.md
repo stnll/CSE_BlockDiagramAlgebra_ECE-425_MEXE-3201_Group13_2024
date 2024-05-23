@@ -33,5 +33,5 @@ Simulink
 Block Diagram Solution
 <p align="center">
   <img alt = "Python" width="1000" src="https://github.com/stnll/CSE_BlockDiagramAlgebra_ECE-425_MEXE-3201_Group13_2024/assets/157665975/3055803f-b184-4599-8905-98bd04588dba">
-
-![image](https://github.com/stnll/CSE_BlockDiagramAlgebra_ECE-425_MEXE-3201_Group13_2024/assets/157665975/ce40cd4e-aa4c-4e1a-b395-542ac47b1260)
+<p align="center">
+  <img alt = "Python" width="1000" src="https://github.com/stnll/CSE_BlockDiagramAlgebra_ECE-425_MEXE-3201_Group13_2024/assets/157665975/ce40cd4e-aa4c-4e1a-b395-542ac47b1260">
